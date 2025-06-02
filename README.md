@@ -153,7 +153,7 @@ Pull requests are welcome! If you want to contribute:
 
 **Developer:** Yasir Hussain
 **Email:** [your.email@example.com](yasirhussain0027@gmail.com)
-**LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/yasirhussain027)
+**LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/yasirhussain027)
 
 ---
 
