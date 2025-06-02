@@ -151,7 +151,7 @@ Pull requests are welcome! If you want to contribute:
 
 ## 📬 Contact
 
-**Developer:** \[Your Name]
+**Developer:** Yasir Hussain
 **Email:** [your.email@example.com](yasirhussain0027@gmail.com)
 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/yasirhussain027)
 
@@ -161,5 +161,4 @@ Pull requests are welcome! If you want to contribute:
 
 **BusWay** isn’t just a project—it's a vision for **smarter urban mobility**. By combining computer vision with real-time analytics, this system has the potential to modernize how cities track and communicate public transport movements.
 
-```
 
