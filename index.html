@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Real-time Data</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  </head>
+  <body>
+    <h1>Real-time Data</h1>
+    <table>
+      <thead>
+        <tr>
+          <th>Column 1</th>
+          <th>Column 2</th>
+          <th>Column 3</th>
+        </tr>
+      </thead>
+      <tbody id="data">
+      </tbody>
+    </table>
+    <script>
+      function updateData() {
+        $.getJSON('/api/data', function(data) {
+          $('#data').empty();
+          $.each(data, function(i, row) {
+            $('#data').append('<tr><td>' + row['Column 1'] + '</td><td>' + row['Column 2'] + '</td><td>' + row['Column 3'] + '</td></tr>');
+          });
+        });
+      }
+      setInterval(updateData, 1000); // update every 1 second
+    </script>
+  </body>
+</html>
