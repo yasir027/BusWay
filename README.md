@@ -5,6 +5,19 @@
 
 **BusWay** is a smart transit tracking system that detects bus number plates from live CCTV footage using computer vision and OCR. It extracts real-time information including the **bus number**, **timestamp**, and **location**, and stores this data—along with a snapshot—for potential real-time broadcast to users waiting at subsequent bus stops.
 
+# 🚍 BusWay: Real-Time Bus Number Plate Detection & Tracking System
+
+**BusWay** is a smart transit tracking system that detects bus number plates from live CCTV footage using computer vision and OCR. It extracts real-time information including the **bus number**, **timestamp**, and **location**, and stores this data—along with a snapshot—for potential real-time broadcast to users waiting at subsequent bus stops.
+
+
+## 🏆 Achievements
+
+> 🥉 **2nd Runner-Up**, Hackathon at **SU Knowledge Hub**  
+> 🏅 **Featured Project**: *BusWay – Real-time Bus Tracking App*
+
+This project was built and showcased during the hackathon event hosted by SU Knowledge Hub, where it earned recognition for its innovation and practical impact in the domain of urban transit and smart surveillance.
+
+
 ### 📌 Project Idea
 
 In many cities, commuters miss buses by a margin of minutes. BusWay solves this problem by utilizing CCTV cameras and OCR to detect buses as they pass a checkpoint, instantly extracting key info that can be used to:
